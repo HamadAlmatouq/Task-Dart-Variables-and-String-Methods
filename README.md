@@ -11,11 +11,6 @@ Then, print these variables.
 Example for John, Doe, 24, 1.78, the console log should read:
 
 ```
-John
-Doe
-24
-1.78
-```
 
 ### 🤼‍♂️ Booleans
 
